@@ -1,6 +1,7 @@
 package com.stooges.pattern.observer;
 
 /**
+ * 观察者接口
  * @author 张超
  * @date 2017/2/16.
  */

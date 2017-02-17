@@ -3,6 +3,7 @@ package com.stooges.pattern.observer;
 import java.util.ArrayList;
 
 /**
+ * 主题实现类-气象数据
  * @author 张超
  * @date 2017/2/16.
  */

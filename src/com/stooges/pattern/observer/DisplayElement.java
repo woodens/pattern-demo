@@ -1,6 +1,7 @@
 package com.stooges.pattern.observer;
 
 /**
+ * 显示
  * @author 张超
  * @date 2017/2/16.
  */
